@@ -1,4 +1,3 @@
-HTML
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -17,7 +16,7 @@ HTML
 
   <!-- Reemplaza "AQUI_TU_RUTA.glb" por la ruta o enlace de tu archivo 3D -->
   <model-viewer 
-    src="placas/asus_z170-p_motherboard.gltf" 
+    src="AQUI_TU_RUTA.glb" 
     alt="Modelo 3D" 
     camera-controls 
     auto-rotate 
